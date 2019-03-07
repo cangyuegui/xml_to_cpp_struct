@@ -31,7 +31,7 @@ SOURCES += \
 
 HEADERS += \
         widget.h \
-        OTHER.h
+		OTHER.h
 FORMS += \
         widget.ui
 
